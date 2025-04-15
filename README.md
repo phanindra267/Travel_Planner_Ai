@@ -31,11 +31,11 @@ Check out the live demo [﻿here](https://travelplannerai.online/).
 ## Installation
 To run the Travel Planner AI, follow these steps:
 
-1. Clone the repository:git clone [﻿https://github.com/hardikverma22/travel-planner-ai](https://github.com/hardikverma22/travel-planner-ai) 
-2. Navigate to the project directory:cd travel-planner-ai
-3. Install the dependencies:npm install
-4. Start the development server:npm run dev
-5. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/)  to see the app in action.
+
+1. Navigate to the project directory:cd travel-planner-ai
+2. Install the dependencies:npm install
+3. Start the development server:npm run dev
+4. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/)  to see the app in action.
 ## Technologies Used
 - Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
 - **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
